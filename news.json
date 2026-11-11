@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "weather-1.3.0",
+      "title": "Weather Client 1.3.0: stability and tools",
+      "date": "2026-11-11",
+      "tag": "Release",
+      "icon": "aurora",
+      "body": "The crash in Limbo and AFK lobbies is fixed. Settings are now saved safely with automatic backups. A new Tools screen explains crashes in plain language, shows a live performance graph, keeps configuration profiles, and offers a Safe Mode for when the game will not start. The Hotbar Sorter was rebuilt to wait for the server before every move."
+    },
+    {
+      "id": "launcher-1.0.0",
+      "title": "Weather Client has its own launcher",
+      "date": "2026-11-08",
+      "tag": "Launcher",
+      "icon": "aurora",
+      "body": "Sign in with Microsoft, press Play, and the launcher installs Minecraft 1.8.9, Legacy Fabric and Weather Client for you. Every file is hash-checked, and it keeps its own game folder, so your other installs stay untouched."
+    },
+    {
+      "id": "fast-culling",
+      "title": "Fast Chunk Culling: +13-17% FPS",
+      "date": "2026-11-08",
+      "tag": "Performance",
+      "icon": "bolt",
+      "body": "A rewrite of vanilla's chunk visibility search with flat arrays and a cached camera chunk. It draws exactly the same chunks as vanilla, 2.3x faster, and the slowest 1% of frames improve by over 20%."
+    },
+    {
+      "id": "weather-1.2.0",
+      "title": "Weather Client 1.2.0: aqua aurora",
+      "date": "2026-11-07",
+      "tag": "Release",
+      "icon": "aurora",
+      "body": "A new title screen with aurora curtains across the whole sky over a mountain lake, an in-client account switcher, and the aqua theme throughout the menus."
+    },
+    {
+      "id": "weather-styles",
+      "title": "Five weather styles, crossfading",
+      "date": "2026-11-06",
+      "tag": "Weather",
+      "icon": "snow",
+      "body": "Rain, Snow, Blizzard, Fog and Sandstorm on the Weather On key. Snow settles on everything open to the sky and melts into the floor; rain leaves wet, reflective ground and drips down walls."
+    },
+    {
+      "id": "storms",
+      "title": "Storms you can call in",
+      "date": "2026-11-06",
+      "tag": "Weather",
+      "icon": "storm",
+      "body": "Thunderstorms roll in from the distance with procedural lightning bolts. Rain builds over about eight seconds and fades over twelve, and every part of the weather has its own slider."
+    }
+  ]
+}

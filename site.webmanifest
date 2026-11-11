@@ -1,0 +1,14 @@
+{
+  "name": "Weather Client",
+  "short_name": "Weather Client",
+  "description": "Realistic weather, aurora across the whole sky and a clean PvP HUD for Minecraft 1.8.9.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#04070d",
+  "theme_color": "#04070d",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

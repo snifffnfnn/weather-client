@@ -1,0 +1,7 @@
+{
+  "version": "1.3.2",
+  "url": "https://github.com/snifffnfnn/weather-client/releases/download/v1.0.2/weather-client-1.3.2.jar",
+  "sha256": "a7732c409fc479059edf8a937da2c17df8f6a942407d38987d08f4ca33600b9d",
+  "size": 1688519,
+  "notes": "Hotbar Sorter pauses itself on Hypixel, which sends players to Limbo for automatic inventory moves. Signing in from the in-game Accounts screen works without pasting a client ID."
+}
