@@ -73,7 +73,9 @@ Keep the installer on GitHub Releases in every case; only the site goes on the h
 Both settings take effect straight away and accept only `https://` addresses.
 
 - **News:** Settings → Advanced → News feed: `https://YOUR-DOMAIN/news.json`
-- **Mod updates:** Weather Client page → Update URL: `https://YOUR-DOMAIN/updates/latest.json`
+- **Mod updates:** since launcher 1.0.3, every start checks the `updateUrl` in
+  `launcher/resources/site.json`, which is this site's `updates/latest.json`. An address typed into
+  Weather Client page → Update URL takes its place.
 
 The launcher reads these from its own process, so the host doesn't need CORS headers.
 
